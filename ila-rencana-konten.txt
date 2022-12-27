@@ -3,5 +3,6 @@ Rencana Konten Ila
 - Matematika
   *aljabar
   *trigonometri
+  *peluang
 - Elektronika Dasar
 - Animasi

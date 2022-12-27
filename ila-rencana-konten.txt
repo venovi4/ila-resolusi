@@ -3,7 +3,9 @@ Rencana Konten Ila
 - Matematika
   *aljabar
   *trigonometri
-  ^kelas 12
+  *peluang
+  ^ kelas 10  
 - Elektronika Dasar
-  ^kelas 12
+  ^ kelas 12
 - Animasi
+  ^ kelas 11

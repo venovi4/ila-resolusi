@@ -4,6 +4,8 @@ Rencana Konten Ila
   *aljabar
   *trigonometri
   *peluang
+  *aritmatika
+  
   ^ kelas 10  
 - Elektronika Dasar
   ^ kelas 12

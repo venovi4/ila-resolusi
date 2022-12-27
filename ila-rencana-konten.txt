@@ -4,7 +4,7 @@ Rencana Konten Ila
   *aljabar
   *trigonometri
   *peluang
-  
+  ^ kelas 12
 - Elektronika Dasar
   ^ kelas 10
 - Animasi

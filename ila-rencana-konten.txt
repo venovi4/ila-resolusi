@@ -1,5 +1,7 @@
 Rencana Konten Ila
 
 - Matematika
+  *aljabar
+  *trigonometri
 - Elektronika Dasar
 - Animasi
